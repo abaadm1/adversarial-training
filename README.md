@@ -17,6 +17,7 @@ Earlier iterations with complex regularization (label smoothing, heavy augmentat
 | File | Purpose |
 |------|--------|
 | [`adversarial_training.ipynb`](adversarial_training.ipynb) | Main pipeline: custom dataset, FGSM/PGD attacks, ResNet-18 training, loss averaging, model saving. |
+| [`TML25_A3_22_Report.pdf`](TML25_A3_22_Report.pdf) | Comprehensive project report with detailed analysis, experiments, and results. |
 | [`requirements.txt`](requirements.txt) | Pinned Python dependencies. |
 | [`.gitignore`](.gitignore) | Ignores model checkpoints, datasets, and Python artifacts. |
 
